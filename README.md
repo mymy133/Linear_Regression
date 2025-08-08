@@ -2,10 +2,11 @@
 ##  Overview
 This project predicts **salary** based on **years of experience** using different regression models.  The aim is to compare how various linear and non-linear approaches perform on the same dataset.
 ## 📊 Dataset
-- **Source:** Kaggle – Salary Dataset for Simple Linear Regression   
+- **Source:** [Kaggle – Salary Dataset](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)  
 - **Features:**
   - `YearsExperience` – Number of years of professional experience  
   - `Salary` – Annual salary in USD  
+**License:** Public (can be included in this repository)
 
 
 ## ⚙️ Tools & Libraries
